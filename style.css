@@ -50,7 +50,7 @@
 
 #banner {
     width: 100%;
-    background-image :url("image/R.jpg");
+    background-. :url("./R.jpg");
     height: 463px;
     margin-top:40px;
     display: flex;
@@ -257,7 +257,7 @@
 }
 
 #saleoff .box-right {
-    background-image:url("image/hoa-qua-bb81f365-0e99-4bee-855c-1d94118c489a.webp");
+    background-.:url("./hoa-qua-bb81f365-0e99-4bee-855c-1d94118c489a.webp");
 }
 
 
